@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello, my name is Sean McMahon and I am a senior BSCS major. I like to play videogames, paint and play basketball. :^)
